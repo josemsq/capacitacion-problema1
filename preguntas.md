@@ -30,3 +30,9 @@ Sirve para ejecutar comandos de linux en la carpeta de la imagen.
 
 ¿Cuál es la diferencia entre docker ps y docker ps -a? 
 docker ps te muestra los contenedores que se estan ejecutando. docker ps -a te muestra todos los contenedores que existen inclusive si no se estan ejecutando.
+
+-->docker run -i -t josemsq/orbis-training-docker:0.2.0 bash
+-->cd app
+-->cat -A preguntas.md
+
+
