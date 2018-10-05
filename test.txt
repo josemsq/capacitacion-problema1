@@ -1,0 +1,402 @@
+    1  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+    2  git config --global user.name "Jose Suasaca"
+    3  $ git config --global user.email jose.suasaca@metricaandina.com
+    4  git config --global user.email jose.suasaca@metricaandina.com
+    5  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+    6  $ ls -al
+    7  ls -al ~/.ssh | grep ".pub"
+    8  pwd
+    9  ssh-keygen -t rsa -C "jose.suasaca@metricaandina.com"
+   10  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   11  ssh-keygen -t rsa -C "jose.suasaca@metricaandina.com"
+   12  eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_rsa
+   13  start .
+   14  start .
+   15  cat .ssh/id_rsa.pub
+   16  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   17  git clone josesuasaca@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   18  eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_rsa
+   19  eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_rsa
+   20  ssh-rsa
+   21  eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_rsa ssh-rsa
+   22  eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_rsa
+   23  ssh -T git@bitbucket.org
+   24  git status
+   25  cd D
+   26  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   27  dir
+   28  cd 
+   29  dir
+   30  cd C
+   31  c:
+   32  :C
+   33  cd  C:\D\PagoEfectivo\SourceCode\BOPE
+   34  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   35  git clone git@bitbucket.org:orbisunt/pagoefectivo-backoffice-rya.git
+   36  dir>test.txt
+   37  dir>test.txt
+   38  dir>text.txt
+   39  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+   40  ssh-keygen -t rsa -b 4096 -C "josemsq@gmail.com"
+   41  ssh-add ~/.ssh/id_rsa
+   42  ls -al ~/.ssh
+   43  dir
+   44  D:
+   45  cd D:
+   46  cd CapacitacionGit/
+   47  cd Test/
+   48  git config --global user.email "josemsq@gmail.com"
+   49  git config --global user.name "jose.suasaca"
+   50  git clone git@github.com:josemsq/capacitacion-problema1.git
+   51  git status
+   52  cd capacitacion-problema1/
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "prueba commit"
+   57  git push origin master
+   58  git branch tarea origin/master 
+   59  git branch 
+   60  git checkout tarea 
+   61  git pull origin tarea
+   62  git status }
+   63  git status 
+   64  git stash -u [save]
+   65  git status 
+   66  git stash list
+   67  git status 
+   68  git stash -u
+   69  git status 
+   70  git checkout master
+   71  git status 
+   72  git status 
+   73  git add .
+   74  git status 
+   75  git commit -m "add nuevo integrante"
+   76  git push origin master
+   77  git checkout tarea 
+   78  git stash
+   79  git stash apply
+   80  git stash list
+   81  git stash drop
+   82  git status
+   83  git stash list
+   84  git add .
+   85  git status
+   86  git commit -m "add intro.md"
+   87  git push origin tarea
+   88  git checkout master 
+   89  git pull origin master
+   90  history 
+   91  git checkout tarea 
+   92  git rebase -i origin/master
+   93  git status
+   94  git push origin tarea
+   95  git checkout master 
+   96  git merge tarea
+   97  git log
+   98  git push origin master
+   99  git push origin -delete tarea
+  100  git push origin --delete tarea
+  101  git branch
+  102  git checkout tarea
+  103  git checkout master
+  104  git branch -D tarea
+  105  git branch
+  106  git checkout tarea
+  107  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+  108  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+  109  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+  110  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+  111  git remote -v
+  112  cd orbis-example-training/
+  113  git remote -v
+  114  git remote set-url git@github.com:josemsq/orbis-example-training.git
+  115  git remote rm origin
+  116  git remote -v
+  117  git remote add git@github.com:josemsq/orbis-example-training.git
+  118  git remote add origin git@github.com:josemsq/orbis-example-training.git
+  119  git remote -v
+  120  git push origin master
+  121  git gc
+  122  git verify-pack -v
+  123  rm sc.16.tar.gz
+  124  git rm sc.16.tar.gz
+  125  dir
+  126  start .
+  127  rm sc.16.tar.gz
+  128  git rm git.tgz
+  129  git status
+  130  git add .
+  131  git comit -m "eliminando archivo pesado"
+  132  git push origin master
+  133  rm sc.16.tar.gz
+  134  git push origin master
+  135  git pull origin master
+  136  git remote -v
+  137  git gc
+  138  git start .
+  139  start .
+  140  git gc
+  141  git verify-pack -v .git/objects/pack/sc.16.tar.gz
+  142  git verify-pack -v
+  143  git verify-pack 
+  144  git verify-pack -v .git/objects/
+  145  git verify-pack -v .git/objects/pack/
+  146  git set-url origin git@bitbucket.org:orbisunt/orbis-example-training.git
+  147  git remote set-url origin git@bitbucket.org:orbisunt/orbis-example-training.git
+  148  git remote -v
+  149  git pull origin master
+  150  git remote -v
+  151  git clone git@bitbucket.org:orbisunt/orbis-example-training.git
+  152  git remote set-url origin git@github.com:josemsq/orbis-example-training.git
+  153  git remote -v
+  154  cd orbis-example-training/
+  155  git remote -v
+  156  git remote set-url origin git@github.com:josemsq/orbis-example-training.git
+  157  git remote -v
+  158  git status
+  159  git add .
+  160  git commit - m"test eliminando"
+  161  git commit - m "test eliminando"
+  162  git commit -m "test eliminando"
+  163  git push origin master
+  164  git gc
+  165  git verify-pack -v .git/objects/pack/
+  166  git verify-pack -v .git/objects/pack/pack-064efeae42fe84f6e4ae65e066b3ec2a60c03996.pack
+  167  git verify-pack -v .git/objects/pack/pack-064efeae42fe84f6e4ae65e066b3ec2a60c03996.pack
+  168  rm -Rf .git/logs/
+  169  git fsck --full
+  170  git verify-pack -v 
+  171  git verify-pack -v .git/objects/pack/pack-064efeae42fe84f6e4ae65e066b3ec2a60c03996.idx
+  172  git rm cfc3322ec593c88d0e4d68c312de3583ca741041
+  173  git rev-list --objects -all | grep cfc3322ec593c88d0e4d68c312de3583ca741041
+  174  git rev-list --objects --all | grep cfc3322ec593c88d0e4d68c312de3583ca741041
+  175  git rm sc.16.tar.gz
+  176  git lo --oneline --branches --git.tgz
+  177  git lo --oneline --branches -- git.tgz
+  178  git log --oneline --branches -- git.tgz
+  179  git filter-branch --index-filter \
+  180  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz'
+  181  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz' --cfc3322ec593c88d0e4d68c312de3583ca741041
+  182  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz' --66eb281
+  183  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz'
+  184  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz' --66eb281
+  185  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz' --66eb281
+  186  git filter-branch --index-filter \'git rm --cached --ignore-unmactch git.tgz' --66eb281^
+  187  git filter-branch --index-filter \ 'git rm --cached --ignore-unmactch git.tgz' --66eb281
+  188  git filter-branch --index-filter \ 'git rm --cached --ignore-unmactch git.tgz' --66eb281
+  189  git status
+  190  git filter-branch --index-filter \ 'git rm --cached --ignore-unmatch git.tgz' --66eb281
+  191  git filter-branch --index-filter \'git rm --cached --ignore-unmatch git.tgz' --66eb281
+  192  git filter-branch --index-filter \'git rm --cached --ignore-unmatch git.tgz' HEAD
+  193  git filter-branch --index-filter \'git rm --cached --ignore-unmatch git.tgz' --cfc3322ec593c88d0e4d68c312de3583ca741041
+  194  git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch sc.16.tar.gz' HEAD
+  195  GIT STATUS
+  196  git status
+  197  rm -Rf .git/refs/original
+  198  rm -Rf .git/logs/
+  199  git gc
+  200  git push origin master
+  201  git status
+  202  dir
+  203  git log
+  204  ls -la
+  205  git diff 32c0af291f0c219325beee6168046d0360ca2674
+  206  git log
+  207  git checkout 
+  208  git checkout 
+  209  git checkout 32c0af291f0c219325beee6168046d0360ca2674 README.md
+  210  git status
+  211  git checkout 32c0af291f0c219325beee6168046d0360ca2674 1_tSyuv3ZRCfsSD5aXB7v8DQ.png
+  212  git status
+  213  git commit -m "reestableciendo eliminados"
+  214  git log
+  215  git rebase -i 32c0af291f0c219325beee6168046d0360ca2674
+  216  git log
+  217  git status
+  218  git push --force 
+  219  git status
+  220  git log
+  221  dir>test.txt
+  222  cd /c/D/PagoEfectivo/SourceCode/pagoefectivo-backoffice-rya
+  223  git status
+  224  git stash list
+  225  git add -u
+  226  git status
+  227  git commit -m "feat(Liquidacion) : add idPais a combos de filtros"
+  228  git checkout dev
+  229  git pull origin dev
+  230  git status
+  231  git add -u
+  232  git commit -m "fix(devolucion) : correccion de orden de clase BEListaDevolucionesAdministrar"
+  233  git push origin dev
+  234  git status
+  235  git branch
+  236  git status
+  237  git pull origin dev
+  238  git checkout pre
+  239  git pull origin pre
+  240  git merge dev
+  241  git push origin pre
+  242  git checkout dev
+  243  git checkout BP-244
+  244  git checkout BP-244-LIQUIDACION-MULTIPAIS 
+  245  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  246  git checkout BP-259-en-liquidacion-configurar-mostrar 
+  247  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  248  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  249  git status
+  250  git add -u
+  251  git commit -m "feat(Liquidacion) : add idPais a combos de filtros version completa"
+  252  git pull origin BP-259-en-liquidacion-configurar-mostrar 
+  253  git push origin BP-259-en-liquidacion-configurar-mostrar 
+  254  git checkout  BP-244-LIQUIDACION-MULTIPAIS  
+  255  git merge BP-259-en-liquidacion-configurar-mostrar 
+  256  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  257  git merge BP-259-en-liquidacion-configurar-mostrar 
+  258  git push origin BP-244-LIQUIDACION-MULTIPAIS 
+  259  git status
+  260  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  261  git status
+  262  git pull origin BP-244-LIQUIDACION-MULTIPAIS 
+  263  git status
+  264  git@github.com:josemsq/orbis-training-project.git
+  265  git clone git@github.com:josemsq/orbis-training-project.git
+  266  start .
+  267  dir
+  268  cd orbis-training-project/
+  269  dir
+  270  REN README.md preguntas.md
+  271  REN
+  272  RENAME
+  273  mv
+  274  mv --help
+  275  mv README.md preguntas.md
+  276  ls
+  277  cd '/d/Capacitacion Docker/orbis-training-project'
+  278  git status
+  279  git add .
+  280  git status
+  281  git commit -m "fix(rename): cambio de nombre de archivo README.md -> preguntas.md"
+  282  git pull origin master
+  283  git push origin master
+  284  git add Dockerfile
+  285  vim Dockerfile
+  286  git status
+  287  docker build -t josemsq/orbis-training-docker:0.1.0
+  288  docker build -t josemsq/orbis-training-docker:0.1.0 .
+  289  docker version
+  290  docker version
+  291  docker build -t josemsq/orbis-training-docker:0.1.0 .
+  292  docker search nginx:10.10.0-slim
+  293  ls
+  294  vim Dockerfile 
+  295  docker build -t josemsq/orbis-training-docker:0.1.0 .
+  296  vim Dockerfile 
+  297  docker build -t josemsq/orbis-training-docker:0.1.0 .
+  298  vim Dockerfile 
+  299* 
+  300  git images
+  301  docker images
+  302  vim README.md
+  303  ls
+  304  ls
+  305  vim README.md
+  306  ls
+  307  docker push josemsq/orbis-training-docker
+  308  vim README.md 
+  309  docker tag josemsq/orbis-training-docker:0.1.0 josemsq/orbis-training-docker:0.2.0 
+  310  docker images
+  311  docker push josemsq/orbis-training-docker
+  312  vim README.md 
+  313  git status
+  314  git add .
+  315  git commit -m "feat(docker): add Dockerfile y README.md"
+  316  git tag 0.0.1
+  317  git status
+  318  git push origin master
+  319  git status
+  320  ls
+  321  vim preguntas.md 
+  322  docker ps
+  323  docker exec -i-t 7db9c916bc4e bash
+  324  docker exec -i -t 7db9c916bc4e bash
+  325  docker run -i -t 7db9c916bc4e bash
+  326  docker version
+  327  docker ps
+  328  docker images
+  329  vim preguntas.md 
+  330  vim preguntas.md 
+  331  docker rm 9206bef82dc8
+  332  docker rm 9206bef82dc8 force
+  333  docker rm info
+  334  docker rm --help
+  335  docker rm -f 9206bef82dc8 force
+  336  docker ps
+  337  docker images
+  338  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash
+  339  docker ps
+  340  vim Dockerfile 
+  341  docker build -t josemsq/orbis-training-docker:0.2.0 .
+  342  docker images
+  343  vim Dockerfile 
+  344  vim Dockerfile 
+  345  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash
+  346  docker ps
+  347  git status
+  348  git add .
+  349  git commit -m "feat(docker): copy file to image and exe"
+  350  git push origin master
+  351  docker ps
+  352  vim preguntas.md 
+  353  git tag
+  354  git tag 0.1.0
+  355  git tag
+  356  git status
+  357  git add .
+  358  git commit -m "feat(docker): copy file to image and exe preguntas.md"
+  359  git push origin master
+  360  git push origin --tags
+  361  docker push josemsq/orbis-training-docker
+  362  vim preguntas.md 
+  363  git pull origin master
+  364  start .
+  365  vim Dockerfile 
+  366  docker build -t josemsq/orbis-training-docker:1.2.0 .
+  367  docker images
+  368  docker ps
+  369  docker run -i -t josemsq/orbis-training-docker:1.2.0 bash
+  370  docker run -i -t josemsq/orbis-training-docker:1.2.0
+  371  docker ps
+  372  docker rm -f 710459dfa888
+  373  docker ps
+  374  docker run -i -t -d "1080:80" josemsq/orbis-training-docker:1.2.0
+  375  docker run -d -p "1080:80" josemsq/orbis-training-docker:1.2.0
+  376  vim README.md 
+  377  vim Dockerfile 
+  378  ls
+  379  docker ps
+  380  vim docker-compose.yml
+  381  ls
+  382  docker rm -f cd8f27ebdb42
+  383  docker build -t josemsq/orbis-training-docker:1.2.0 .
+  384  docker images
+  385  docker push josemsq/orbis-training-docker
+  386  docker tag 
+  387  docker images
+  388  docker tag c2dc7225b906 josemsq/orbis-training-docker:1.2.0
+  389  docker run -d -p "1080:80" josemsq/orbis-training-docker:1.2.0
+  390  vim README.md 
+  391  git status
+  392  git add .
+  393  git commit -m "feat(docker-compose): docker compose"
+  394  git push origin master
+  395  docker push josemsq/orbis-training-docker
+  396  ls
+  397  clear
+  398  docker-compose.exe -f ./docker-compose.yml up
+  399  docker-compose -f ./docker-compose.yml up
+  400  docker ps
+  401  git status
+  402  history>test.txt

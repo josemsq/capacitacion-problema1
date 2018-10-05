@@ -9,4 +9,5 @@ docker run -d -p "1080:80" josemsq/orbis-training-docker:1.2.0
  docker images
  docker tag c2dc7225b906 josemsq/orbis-training-docker:1.2.0
  docker run -d -p "1080:80" josemsq/orbis-training-docker:1.2.0
-
+ docker -compose -f ./docker-compose.yml up -d
+ docker log
