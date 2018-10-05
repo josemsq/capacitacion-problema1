@@ -35,4 +35,23 @@ docker ps te muestra los contenedores que se estan ejecutando. docker ps -a te m
 -->cd app
 -->cat -A preguntas.md
 
+1. ¿Cuál es la diferencia entre una imagen y un contenedor?
+	Una imagen es una especie de plantilla, una captura del estado de un contenedor,
+	Son instancias en ejecución de una imagen. Son los que ejecutan cosas, los que ejecutarán nuestra aplicación
+2. ¿Cómo listo las imágenes que hay en mi computadora?
+	con el comando "docker images"
+3. ¿Cómo salgo de un contenedor de docker?
+	comando "exit"
+4. ¿Se elimina el contenedor al salir de ella?
+	no
+5. ¿Cómo elimino un contenedor?
+	comando "docker rm -f <id_conenendor>"
+6. ¿Para qué es necesario el flag `-i`, `-t`, `--rm`?
+	-i modo interactivo
+	-t Activa la consola TTY del contenedor
+	-rm para remover contenedor
+7. ¿Cómo verifico que el archivo creado se encuentra en la imagen?
+	construyendo la imagen y ejecutando el contenedor al cual podemos ingresar y ver el contenido 
+8. ¿Cómo se comenta una linea de código en Dockerfile?
+	con el #
 
