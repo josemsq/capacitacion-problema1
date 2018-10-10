@@ -1,0 +1,52 @@
+    1  login
+    2  docker version
+    3  docker login
+    4  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash
+    5  docker ps
+    6  docker rm -f 31bf85d107d5
+    7  docker ps
+    8  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash cat/app/preguntas.md
+    9  cat /app/preguntas.md
+   10  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash cat /app/preguntas.md
+   11  docker images
+   12  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash cat /app/preguntas.md
+   13  docker run -i -t josemsq/orbis-training-docker:0.2.0 bash
+   14  docker run -i -t josemsq/orbis-training-docker:1.2.0 bash
+   15  docker run -i -t josemsq/orbis-training-docker:0.2.0
+   16  clear
+   17  docker-compose.exe -f ./docker-compose.yml up
+   18  ls
+   19  dir
+   20  ..
+   21  cd D:
+   22  dir
+   23  cd /mnt/d/Capacitacion\ Docker/orbis-training-project/
+   24  ls
+   25  docker-compose -f ./docker-compose.yml up
+   26  sudo apt install docker-compose
+   27  docker-compose -f ./docker-compose.yml up
+   28  docker ps
+   29  docker rm -f 0a727e1519ff 
+   30  docker ps
+   31  docker-compose -f ./docker-compose.yml up
+   32  docker-compose -f ./docker-compose.yml up -d
+   33  ls
+   34  cat -a docker-compose.yml 
+   35  cat -A docker-compose.yml 
+   36  docker-compose -f ./docker-compose.yml up -d
+   37  cat -A docker-compose.yml 
+   38  docker-compose -f ./docker-compose.yml up -d
+   39  docker ps
+   40  docker images
+   41  docker ps
+   42  docker ps -a
+   43  docker rm -f 
+   44  docker rm -f d626a316a6c7
+   45  docker ps -a
+   46  docker-compose -f ./docker-compose.yml up -d
+   47  docker ps
+   48  docker log
+   49  docker log --help
+   50  ls
+   51  history
+   52  history>comandos.txt
