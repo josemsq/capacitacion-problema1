@@ -1,7 +1,8 @@
-version: '2'
+version: '3'
 services:
-    nginx:
-        container_name: nginx_app
-        image: "josemsq/orbis-training-docker:1.2.0"
+    web:
+        container_name: node_app
+        image: "josemsq/orbis-training-docker:2.3.0"
         ports:
-            - "1080:80"
+            - "1024:1024"
+        command: npm start
