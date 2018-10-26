@@ -55,3 +55,23 @@ docker ps te muestra los contenedores que se estan ejecutando. docker ps -a te m
 8. ¿Cómo se comenta una linea de código en Dockerfile?
 	con el #
 
+# Docker parte 3 - parte 7 - preguntas
+1. ¿Es necesario especificar el `workdir` en docker?, ¿Porqué?
+2. ¿Que hacen los siguientes comandos? 
+ -`docker ps`
+ -`docker pull`
+ -`docker push` 
+ -`docker rm`
+ -`docker rmi`
+ -`docker run`
+ -`docker tag`
+ -`docker search`
+ -`docker login`
+ -`docker exec`
+ -`docker build`
+ -`docker inspect`
+ -`docker network`
+
+
+
+ 

@@ -6,3 +6,10 @@ services:
         ports:
             - "1024:1024"
         command: npm start
+    test:
+        container_name: test
+        image: node:10.10.0-slim
+        command: curl http://localhost:1024
+        network_mode: "host"
+        depends_on:
+            - "web"
