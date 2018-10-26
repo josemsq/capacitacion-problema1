@@ -1,5 +1,5 @@
 docker build -t josemsq/orbis-training-docker:0.1.0 .
-docker push josemsq/orbis-training-dockeri
+docker push josemsq/orbis-training-docker
 docker tag josemsq/orbis-training-docker:0.1.0 josemsq/orbis-training-docker:0.2.0
 docker push josemsq/orbis-training-docker
 #redirigir puerto
@@ -45,4 +45,35 @@ test:
 
 docker-compose up
 
-# Item 3
+# Item 3 : . Crear un archivo llamado example.sh dentro de la carpeta resources
+
+docker run -w /app -v "D:\Capacitacion Docker\orbis-training-project\resources":/app josemsq/orbis-training-docker:2.3.0 ./example.sh saludo
+
+# Item 4 : Pasar una variable llamada NOMBRE, por el comando docker run y modificar el saludo a mostrar
+
+ docker run -w /app -v "D:\Capacitacion Docker\orbis-training-project\resources":/app -e name='nombre contenedor' josemsq/orbis-training-docker:2.3.0 ./example.sh
+
+# Item 5 : Mostrar en la consola el mensaje Ejecutando contenedor..., cada vez que uno cree un contenedor de la imagen de Docker.
+
+docker run -w /app -v "D:\Capacitacion Docker\orbis-training-project\resources":/app --entrypoint ./ejec.sh josemsq/orbis-training-docker:2.3.0
+
+# Item 6 : preguntas
+
+
+## Parte 9 ##
+
+# Item 1 : 
+
+se creo un file Makefile.mk con las entradas install, start, release y greet, los cuales se ejecutan en cada uno de ellos los comandos hechos en los pasos anteriores
+
+# Item 2 :
+
+se agrego una nueva entrada con el nombre del archivo el cual lanza una mensaje "Hola recursos"
+
+# Item 3 :
+
+se agrego un archivo Makefile-task.mk el cual contiene las entradas build, push, up y login y se añadio archivo al Makefile principal con la sentencia 
+include Makefile-task.mk
+
+# Item 4 :
+

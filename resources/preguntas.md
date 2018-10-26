@@ -72,6 +72,10 @@ docker ps te muestra los contenedores que se estan ejecutando. docker ps -a te m
  -`docker inspect`
  -`docker network`
 
+# Docker parte 3 - parte 8 - Item 6 : preguntas
 
-
- 
+ 1. ¿Qué es bash? ¿Qué significa?
+2. ¿Cómo ejecuto un archivo bash?
+3. ¿Qué pasa si no especifico en un `.sh`, la linea `#!/bin/bash`?
+4. ¿Se puede cambiar el modo bash (`/bin/bash`) a otro tipo de ejecución?
+5. ¿Cómo se envía variables de entorno por Docker CLI y docker-compose?
